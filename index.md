@@ -17,4 +17,4 @@ viz = new tableau.Viz(placeholderDiv, url, options);
 }
 
 </script>
-<div style="align: center; margin-left: -150px;"> <iframe src="https://public.tableau.com/views/ElectoralMap_16218468730270/Dashboard1?:showVizHome=no&:embed=true" width="1000px" height="900px" frameborder="0"></iframe> </div>
+<div style="align: center"> <iframe src="https://public.tableau.com/views/ElectoralMap_16218468730270/Dashboard1?:showVizHome=no&:embed=true" width="1000px" height="900px" frameborder="0"></iframe> </div>
